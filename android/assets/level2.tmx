@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="360" height="13" tilewidth="16" tileheight="16" nextobjectid="41">
+ <tileset firstgid="1" name="tileset_gutter" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="924" columns="33">
+  <image source="tileset_gutter.png" width="594" height="504"/>
+ </tileset>
+ <layer name="BackGround" width="360" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt2FEOAiEMRVHMLMn9781fM5ZSoKXg3I+TCDIDFPISvUopl+D9+mUZAwDwIWUz+QwA+cjntbXNXhOAc5DPsbXV2rvjrIFc5HNsbbX2jqQz1tbNnQDikM+xtdXa0Wfp9VzrPqzaH/A05HNsbaV2reYa6znW2q3zHNnLib8PgJOQz341lPpr9Rs9I22Mpa+1Zuv7a/NxLwA/5LNPvaz5PDu3tibr+JG1WPfy1HsBRCCf++tl7V+Zzz39I2shn4H1ZvJ5J5G1+J7jtHz2+h+CfAbWy87V3fK59d1J+WxdV889uX/2eDcAWXau7sZSp5463sdEnVXvMzPzt8Zk32ngX3wA8xtkTw==
+  </data>
+ </layer>
+ <objectgroup name="ground">
+  <object id="25" x="93" y="176" width="82" height="30"/>
+  <object id="26" x="240" y="161" width="559" height="46"/>
+  <object id="27" x="800" y="193" width="289" height="14"/>
+  <object id="28" x="1073" y="158" width="15" height="36"/>
+  <object id="29" x="1090" y="161" width="107" height="48"/>
+  <object id="30" x="1216" y="130" width="82" height="77"/>
+  <object id="31" x="1293" y="112" width="33" height="96"/>
+  <object id="32" x="1391" y="32" width="80" height="175"/>
+  <object id="33" x="45" y="95"/>
+  <object id="34" x="1" y="174" width="92" height="32"/>
+  <object id="35" x="800" y="113" width="35" height="81"/>
+  <object id="36" x="851" y="95" width="30" height="98"/>
+  <object id="37" x="898" y="31" width="30" height="162"/>
+  <object id="38" x="1008" y="33" width="32" height="160"/>
+  <object id="39" x="192" y="461"/>
+  <object id="40" x="176" y="456"/>
+ </objectgroup>
+</map>
